@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\Andre\Atividade revisão\bin\Debug\netcoreapp3.1\Atividade revisão.exe
+C:\Users\fic\Desktop\Andre\Atividade revisão\bin\Debug\netcoreapp3.1\Atividade revisão.deps.json
+C:\Users\fic\Desktop\Andre\Atividade revisão\bin\Debug\netcoreapp3.1\Atividade revisão.runtimeconfig.json
+C:\Users\fic\Desktop\Andre\Atividade revisão\bin\Debug\netcoreapp3.1\Atividade revisão.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Andre\Atividade revisão\bin\Debug\netcoreapp3.1\Atividade revisão.dll
+C:\Users\fic\Desktop\Andre\Atividade revisão\bin\Debug\netcoreapp3.1\Atividade revisão.pdb
+C:\Users\fic\Desktop\Andre\Atividade revisão\obj\Debug\netcoreapp3.1\Atividade revisão.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Andre\Atividade revisão\obj\Debug\netcoreapp3.1\Atividade revisão.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Andre\Atividade revisão\obj\Debug\netcoreapp3.1\Atividade revisão.AssemblyInfo.cs
+C:\Users\fic\Desktop\Andre\Atividade revisão\obj\Debug\netcoreapp3.1\Atividade revisão.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Andre\Atividade revisão\obj\Debug\netcoreapp3.1\Atividade revisão.dll
+C:\Users\fic\Desktop\Andre\Atividade revisão\obj\Debug\netcoreapp3.1\Atividade revisão.pdb
+C:\Users\fic\Desktop\Andre\Atividade revisão\obj\Debug\netcoreapp3.1\Atividade revisão.genruntimeconfig.cache
